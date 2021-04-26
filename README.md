@@ -1,4 +1,8 @@
 ### Hi there 👋
+<a href="https://twitter.com/dennisconcep">
+  <img src="resources/twitter.png" width="30" />
+</a>
+
 I'm Dennis, an undergrad Economics student and self-taught programmer. I started to learn software development because the huge impact that good software can make in people's lives.
 
 Currently, I'm developing [Lazybear app for iOS](https://github.com/DennisTechnologies/Lazybear-App). Lazybear is a native iOS app that makes it easy to follow your stocks and the markets in real-time.
@@ -10,11 +14,6 @@ If you like my work, you can sponsor me.
 
 #### Languages
 <img src="resources/python.png" width="30" /> <img src="resources/swift.png" width="30" />
-
-#### Social 
-<a href="https://twitter.com/dennisconcep">
-  <img src="resources/twitter.png" width="30" />
-</a>
 
 #### Contact me
 dennisconcepcionmartin@gmail.com
