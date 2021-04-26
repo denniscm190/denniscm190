@@ -12,6 +12,9 @@ If you like my work, you can sponsor me.
 <img src="resources/python.png" width="30" /> <img src="resources/swift.png" width="30" />
 
 #### Social 
+<a href="https://twitter.com/dennisconcep">
+  <img src="resources/twitter.png" width="30" />
+</a>
 
 #### Contact me
 dennisconcepcionmartin@gmail.com
