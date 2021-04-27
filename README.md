@@ -14,7 +14,8 @@ Currently, I'm developing [Lazybear app for iOS](https://github.com/DennisTechno
 Also, I would like to work in an open-source project because all I've learnt has been thanks to the great community and open-source code, so it's like I have to give back something to the community. Recently, I started an [open-source project](https://github.com/denniscm190/SwiftUI-InteractiveCharts) - **currently in development** - to display responsive interactive charts easily in SwiftUI.
 
 If you like my work, you can sponsor me.  
-[:octocat: Sponsor on Github](https://github.com/sponsors/denniscm190)
+[:octocat: Sponsor on Github](https://github.com/sponsors/denniscm190)   
+[:coffee: Buy me a coffee](https://www.buymeacoffee.com/denniscm190)
 
 #### Languages
 <img src="resources/python.png" width="30" /> <img src="resources/swift.png" width="30" />
